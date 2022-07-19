@@ -4,6 +4,8 @@ Este repositório foi criado para mostrar como podemos criar uma aplicação fro
 
 Vamos criar um aplicativo usando a API pública do github.
 
+Projeto funcionando: [Github API Interface](https://github-api-interface-theta.vercel.app/)
+
 ## Funções
 
 - [x] Pesquisar informações pelo nome de usuário
@@ -12,9 +14,9 @@ Vamos criar um aplicativo usando a API pública do github.
 
 ## Preview
 
-![plot](./image/snapshot-1.png)
+![plot](./image/preview.png)
 
-### Bibliotecas utilizadas
+## Bibliotecas utilizadas
 
 - [axios](https://www.npmjs.com/package/axios)
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
